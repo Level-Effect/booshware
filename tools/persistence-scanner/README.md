@@ -8,8 +8,8 @@ Must run as administrator.
 - Default threshold is 15 minutes from the time of running the scanner
 - Currently scans:
 ```text
-"C:\Users\$currentUser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
-"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
+C:\Users\$currentUser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 - Will output the name of the file or folder and timestamp of it if any changes detected
 
