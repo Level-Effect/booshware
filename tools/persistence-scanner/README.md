@@ -4,6 +4,9 @@ This is a starter script to be an educational exercise in developing a stronger 
 
 Must run as administrator.
 
+### Getting Help
+Get support, help, advice over in the Level Effect Discord with the join link here: https://discord.gg/GAwRShWxk6
+
 ### Code
 - Default threshold is 15 minutes from the time of running the scanner
 - Currently scans:
